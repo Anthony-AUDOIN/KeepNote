@@ -1,4 +1,4 @@
-# KeepNote - ANDROID Application
+# KeepNote - Application ANDROID
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
