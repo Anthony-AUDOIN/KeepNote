@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">KeepNote</string>
+    <string name="notes">KeepNote</string>
+    <string name="notes_title">Titre de votre note</string>
+    <string name="notes_sub_title">Sous-titre de note</string>
+    <string name="notes_desc">Entrer une note ici</string>
+    <string name="web_url">Entrer une URL</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Annuler</string>
+    <string name="storage_permission_text">"Vous n'avez pas donné l'autorisation d'acces a votre stockage"</string>
+    <string name="search">Chercher votre note</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AddPicture">Ajouter une image</string>
+    <string name="addLink">Ajouter un lien</string>
+    <string name="chooseColor">Choisi une couleur</string>
+    <string name="DeleteNote">Supprimer la note</string>
 </resources>
