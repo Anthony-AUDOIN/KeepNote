@@ -1,6 +1,6 @@
 # KeepNote - Application ANDROID
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 Ce projet a été développé pendant le module "M4104C - Développement d'application mobile" de l'IUT Informatique de Limoges. Nous devions choisir un projet a faire au tour du developpement mobile et nous avons choisi de faire un bloc note qui nous a permis d'apprendre les bases du langage Kotlin.
 
